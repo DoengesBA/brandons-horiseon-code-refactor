@@ -1,4 +1,4 @@
-# WK1-HW-WEBPAGE
+# brandons-horiseon-code-refactor
 
 First submission for homework. 
   - Adjusted both the ID class for the "search-engine-optimization" div
