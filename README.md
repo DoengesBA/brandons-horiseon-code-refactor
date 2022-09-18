@@ -7,4 +7,4 @@ First submission for homework.
   - Added some additional Alt text to images and icons
   - Added semantic HTML
 
-  
+  [brandons-website-refactor.pdf](https://github.com/DoengesBA/brandons-horiseon-code-refactor/files/9595490/brandons-website-refactor.pdf)
